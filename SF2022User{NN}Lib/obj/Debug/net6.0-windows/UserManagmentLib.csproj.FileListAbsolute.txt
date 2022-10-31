@@ -1,0 +1,24 @@
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\bin\Debug\net6.0-windows\UserManagmentLib.deps.json
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\bin\Debug\net6.0-windows\UserManagmentLib.dll
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\bin\Debug\net6.0-windows\UserManagmentLib.pdb
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.csproj.AssemblyReference.cache
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.AssemblyInfoInputs.cache
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.AssemblyInfo.cs
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.csproj.CoreCompileInputs.cache
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.dll
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\refint\UserManagmentLib.dll
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.pdb
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\ref\UserManagmentLib.dll
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\bin\Debug\net6.0-windows\UserManagmentLib.deps.json
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\bin\Debug\net6.0-windows\UserManagmentLib.dll
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\bin\Debug\net6.0-windows\UserManagmentLib.pdb
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.csproj.AssemblyReference.cache
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.AssemblyInfoInputs.cache
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.AssemblyInfo.cs
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.csproj.CoreCompileInputs.cache
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.dll
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\refint\UserManagmentLib.dll
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\UserManagmentLib.pdb
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\SF2022User{NN}Lib\obj\Debug\net6.0-windows\ref\UserManagmentLib.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Authorization 3.0/1.0.0": {
+        "dependencies": {
+          "UserManagmentLib": "1.0.0"
+        },
+        "runtime": {
+          "Authorization 3.0.dll": {}
+        }
+      },
+      "UserManagmentLib/1.0.0": {
+        "runtime": {
+          "UserManagmentLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Authorization 3.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserManagmentLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,97 @@
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.exe
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.deps.json
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.runtimeconfig.json
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.dll
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.pdb
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.csproj.AssemblyReference.cache
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Assets\ResourceDictionaries\ColorDictionary.baml
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Assets\ResourceDictionaries\StyleDictionary.baml
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\Page1.g.cs
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\Page2.g.cs
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\UserPage.g.cs
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\App.g.cs
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0_MarkupCompile.cache
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0_MarkupCompile.lref
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\App.baml
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\Page1.baml
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\Page2.baml
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\UserPage.baml
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.g.resources
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.AssemblyInfoInputs.cache
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.AssemblyInfo.cs
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.csproj.CoreCompileInputs.cache
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.dll
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\refint\Authorization 3.0.dll
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.pdb
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.genruntimeconfig.cache
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\ref\Authorization 3.0.dll
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\AuthorizationWindow.g.cs
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\UserListWindow.g.cs
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\AuthorizationWindow.baml
+D:\Студент\3 курс\ИС-33\Вакун\задание 4\Authorization-5.0-master\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\UserListWindow.baml
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.dll
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\refint\Authorization 3.0.dll
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.pdb
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.exe
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.deps.json
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.runtimeconfig.json
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.dll
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.pdb
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.csproj.AssemblyReference.cache
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Assets\ResourceDictionaries\ColorDictionary.baml
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Assets\ResourceDictionaries\StyleDictionary.baml
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\UserPage.g.cs
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\AuthorizationWindow.g.cs
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\UserListWindow.g.cs
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\App.g.cs
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0_MarkupCompile.cache
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0_MarkupCompile.lref
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\App.baml
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\UserPage.baml
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\AuthorizationWindow.baml
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\UserListWindow.baml
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.g.resources
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.AssemblyInfoInputs.cache
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.AssemblyInfo.cs
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.csproj.CoreCompileInputs.cache
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.genruntimeconfig.cache
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\ref\Authorization 3.0.dll
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\UserManagmentLib.dll
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\UserManagmentLib.pdb
+D:\Студент\3 курс\ИС-33\ВД\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.csproj.CopyComplete
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.exe
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.deps.json
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.runtimeconfig.json
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.dll
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\Authorization 3.0.pdb
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\UserManagmentLib.dll
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\bin\Debug\net6.0-windows\UserManagmentLib.pdb
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.csproj.AssemblyReference.cache
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Assets\ResourceDictionaries\ColorDictionary.baml
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Assets\ResourceDictionaries\StyleDictionary.baml
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\UserPage.g.cs
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\AuthorizationWindow.g.cs
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\UserListWindow.g.cs
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\App.g.cs
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0_MarkupCompile.cache
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0_MarkupCompile.lref
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\App.baml
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Pages\UserPage.baml
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\AuthorizationWindow.baml
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\View\Windows\UserListWindow.baml
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.g.resources
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.AssemblyInfoInputs.cache
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.AssemblyInfo.cs
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.csproj.CoreCompileInputs.cache
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.csproj.CopyComplete
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.dll
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\refint\Authorization 3.0.dll
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.pdb
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\Authorization 3.0.genruntimeconfig.cache
+E:\Praktiks\Pogorelov\Задание 5 (с библиотекой)\Authorization-5.0\Authorization 3.0\obj\Debug\net6.0-windows\ref\Authorization 3.0.dll
